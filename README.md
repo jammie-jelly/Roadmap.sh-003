@@ -95,3 +95,7 @@ archive
 ```bash
 rm $HOME/.local/bin/archive
 ```
+
+
+Part of this challenge:
+https://roadmap.sh/projects/log-archive-tool
